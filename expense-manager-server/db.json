@@ -143,14 +143,14 @@
     {
       "payeeName": "Ramesh",
       "product": "Iphone 14 pro max 256gb",
-      "price": 10,
+      "price": 10000,
       "setDate": "2022-10-31",
       "id": 21
     },
     {
       "payeeName": "Rahul",
       "product": "test",
-      "price": 25,
+      "price": 45000,
       "setDate": "2022-10-31",
       "id": 22
     },
